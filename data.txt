@@ -1,0 +1,4490 @@
+﻿Velobike data
+
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">29/04/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0209</b></span>
+                    <span class="route-info__point-address">ст. м. Спортивная (выход №1)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0209</b> </span>
+                    <span class="route-info__point-address">ст. м. Спортивная (выход №1)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">4376</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 25 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">1.4 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">01/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0466</b></span>
+                    <span class="route-info__point-address">Продольный пр-д (у главного входа ВДНХ)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0472</b> </span>
+                    <span class="route-info__point-address">Звёздный б-р, д.18/1</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0263</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 14 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">1.7 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">01/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0472</b></span>
+                    <span class="route-info__point-address">Звёздный б-р, д.18/1</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0485</b> </span>
+                    <span class="route-info__point-address">Дмитровское ш., д.13А, к.3 (ст. м. Тимирязевская)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">4295</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 40 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">6.6 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">01/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0009</b></span>
+                    <span class="route-info__point-address">Тверской б-р (напротив д.28)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0043</b> </span>
+                    <span class="route-info__point-address">Большой Патриарший пер., д.7</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0293</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 17 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">2.1 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">02/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0492</b></span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0445</b> </span>
+                    <span class="route-info__point-address">ул. Сергея Эйзенштейна, д.1</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0425</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 35 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">6.4 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">03/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0445</b></span>
+                    <span class="route-info__point-address">ул. Сергея Эйзенштейна, д.1</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0445</b> </span>
+                    <span class="route-info__point-address">ул. Сергея Эйзенштейна, д.1</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0613</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 1 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0.1 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">03/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0445</b></span>
+                    <span class="route-info__point-address">ул. Сергея Эйзенштейна, д.1</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0445</b> </span>
+                    <span class="route-info__point-address">ул. Сергея Эйзенштейна, д.1</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0969</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 1 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0.2 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">03/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0445</b></span>
+                    <span class="route-info__point-address">ул. Сергея Эйзенштейна, д.1</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0492</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">3898</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 26 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0.1 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">03/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0492</b></span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0491</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.13 (пересеч. с ул. Короленко)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0122</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 4 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0.4 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">03/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0491</b></span>
+                    <span class="route-info__point-address">ул. Стромынка, д.13 (пересеч. с ул. Короленко)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0491</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.13 (пересеч. с ул. Короленко)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0369</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 1 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0.2 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">03/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0491</b></span>
+                    <span class="route-info__point-address">ул. Стромынка, д.13 (пересеч. с ул. Короленко)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0446</b> </span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0125</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 31 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">6.3 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">04/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0446</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0492</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">4136</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 33 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">6.6 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">05/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0146</b></span>
+                    <span class="route-info__point-address">ул. Верхняя Радищевская, д.22 (ст. м. Таганская)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0457</b> </span>
+                    <span class="route-info__point-address">ул. Бауманская, д.33/2 (ст. м. Бауманская)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0309</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 143 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">19.9 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    450 ₽
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">06/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0072</b></span>
+                    <span class="route-info__point-address">Космодамианская наб., д. 46/50</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0072</b> </span>
+                    <span class="route-info__point-address">Космодамианская наб., д. 46/50</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2221</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 6 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0.1 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">06/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0072</b></span>
+                    <span class="route-info__point-address">Космодамианская наб., д. 46/50</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0072</b> </span>
+                    <span class="route-info__point-address">Космодамианская наб., д. 46/50</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0472</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 3 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0.3 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">06/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0072</b></span>
+                    <span class="route-info__point-address">Космодамианская наб., д. 46/50</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0457</b> </span>
+                    <span class="route-info__point-address">ул. Бауманская, д.33/2 (ст. м. Бауманская)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0467</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 226 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">22.4 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    1000 ₽
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">06/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0457</b></span>
+                    <span class="route-info__point-address">ул. Бауманская, д.33/2 (ст. м. Бауманская)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0146</b> </span>
+                    <span class="route-info__point-address">ул. Верхняя Радищевская, д.22 (ст. м. Таганская)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0467</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 188 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">22.2 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    1000 ₽
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">14/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0446</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0452</b> </span>
+                    <span class="route-info__point-address">ст. м. Ботанический сад (ул. Вильгельма Пика)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0776</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 11 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">2 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">14/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0452</b></span>
+                    <span class="route-info__point-address">ст. м. Ботанический сад (ул. Вильгельма Пика)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0452</b> </span>
+                    <span class="route-info__point-address">ст. м. Ботанический сад (ул. Вильгельма Пика)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0725</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 44 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">6 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">14/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0452</b></span>
+                    <span class="route-info__point-address">ст. м. Ботанический сад (ул. Вильгельма Пика)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0453</b> </span>
+                    <span class="route-info__point-address">ст. м. Владыкино</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0725</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 30 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">4.3 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">14/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0453</b></span>
+                    <span class="route-info__point-address">ст. м. Владыкино</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0469</b> </span>
+                    <span class="route-info__point-address">ул. Академика Королёва, д.15, к.2</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0725</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 31 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">5 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">14/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0469</b></span>
+                    <span class="route-info__point-address">ул. Академика Королёва, д.15, к.2</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0466</b> </span>
+                    <span class="route-info__point-address">Продольный пр-д (у главного входа ВДНХ)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0725</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 20 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">2.8 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">14/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0467</b></span>
+                    <span class="route-info__point-address"></span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0466</b> </span>
+                    <span class="route-info__point-address">Продольный пр-д (у главного входа ВДНХ)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0936</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 38 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">6.3 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">15/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0446</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0492</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">3810</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 41 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">6.7 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">15/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0492</b></span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0492</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">3810</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 0 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">15/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0492</b></span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0492</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">1735</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 0 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">15/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0492</b></span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0446</b> </span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">1416</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 32 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">6.6 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">18/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0489</b></span>
+                    <span class="route-info__point-address">ст. м. Сокольники</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0492</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">1641</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 7 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">1.4 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">18/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0045</b></span>
+                    <span class="route-info__point-address"></span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0430</b> </span>
+                    <span class="route-info__point-address">Олимпийский пр-т, д.14</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2149</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 21 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">2.6 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">18/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0430</b></span>
+                    <span class="route-info__point-address">Олимпийский пр-т, д.14</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0442</b> </span>
+                    <span class="route-info__point-address">пр-т Мира, д.69, стр.1</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2149</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 16 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">1.6 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">18/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0442</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.69, стр.1</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0446</b> </span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2149</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 35 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">5.9 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">24/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0446</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0491</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.13 (пересеч. с ул. Короленко)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2285</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 42 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">6.5 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">24/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0491</b></span>
+                    <span class="route-info__point-address">ул. Стромынка, д.13 (пересеч. с ул. Короленко)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0492</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2178</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 3 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0.4 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">26/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0446</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0492</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">4516</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 40 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">7.1 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">27/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0445</b></span>
+                    <span class="route-info__point-address">ул. Сергея Эйзенштейна, д.1</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0492</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">1329</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 43 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">8.3 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">27/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0489</b></span>
+                    <span class="route-info__point-address">ст. м. Сокольники</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0492</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0496</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 6 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">1.4 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">27/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0491</b></span>
+                    <span class="route-info__point-address">ул. Стромынка, д.13 (пересеч. с ул. Короленко)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0446</b> </span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">3818</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 53 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">7.5 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    100 ₽
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">29/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0446</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0491</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.13 (пересеч. с ул. Короленко)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0249</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 40 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">6.4 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">29/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0491</b></span>
+                    <span class="route-info__point-address">ул. Стромынка, д.13 (пересеч. с ул. Короленко)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0492</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0249</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 2 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0.4 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">30/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0446</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0492</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2789</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 67 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">8.3 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    100 ₽
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">31/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0446</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0492</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0389</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 37 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">6.8 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">31/05/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0491</b></span>
+                    <span class="route-info__point-address">ул. Стромынка, д.13 (пересеч. с ул. Короленко)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0446</b> </span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0287</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 33 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">6.4 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">01/06/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0446</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0492</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">1982</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 39 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">6.8 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">01/06/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0491</b></span>
+                    <span class="route-info__point-address">ул. Стромынка, д.13 (пересеч. с ул. Короленко)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0445</b> </span>
+                    <span class="route-info__point-address">ул. Сергея Эйзенштейна, д.1</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">1104</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 44 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">7.2 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">02/06/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0446</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0491</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.13 (пересеч. с ул. Короленко)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0304</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 30 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">6.3 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">03/06/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0452</b></span>
+                    <span class="route-info__point-address">ст. м. Ботанический сад (ул. Вильгельма Пика)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0446</b> </span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">4386</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 8 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">1.9 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">03/06/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0446</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0446</b> </span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">4240</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 2 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0.3 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">03/06/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0446</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0487</b> </span>
+                    <span class="route-info__point-address">Сокольническая пл., д.7</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">4008</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 43 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">6.8 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">07/06/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0446</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0446</b> </span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">4696</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 4 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0.3 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">07/06/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0446</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0492</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0816</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 38 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">7 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">07/06/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0492</b></span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0489</b> </span>
+                    <span class="route-info__point-address">ст. м. Сокольники</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0746</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 12 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">1.4 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">08/06/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0446</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0446</b> </span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0973</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 1 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0.1 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">08/06/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0446</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0492</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2341</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 40 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">7.1 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">08/06/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0491</b></span>
+                    <span class="route-info__point-address">ул. Стромынка, д.13 (пересеч. с ул. Короленко)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0446</b> </span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0820</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 710 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">6.3 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">12/06/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0445</b></span>
+                    <span class="route-info__point-address">ул. Сергея Эйзенштейна, д.1</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0469</b> </span>
+                    <span class="route-info__point-address">ул. Академика Королёва, д.15, к.2</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">1548</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 24 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">2.7 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">12/06/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0469</b></span>
+                    <span class="route-info__point-address">ул. Академика Королёва, д.15, к.2</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0469</b> </span>
+                    <span class="route-info__point-address">ул. Академика Королёва, д.15, к.2</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">1114</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 0 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">12/06/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0469</b></span>
+                    <span class="route-info__point-address">ул. Академика Королёва, д.15, к.2</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0469</b> </span>
+                    <span class="route-info__point-address">ул. Академика Королёва, д.15, к.2</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0123</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 0 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">12/06/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0469</b></span>
+                    <span class="route-info__point-address">ул. Академика Королёва, д.15, к.2</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0453</b> </span>
+                    <span class="route-info__point-address">ст. м. Владыкино</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">1548</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 43 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">3.6 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">16/06/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0446</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0492</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">4015</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 76 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">6.9 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    100 ₽
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">20/06/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0446</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0492</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">1351</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 50 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">6.7 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    100 ₽
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">23/06/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0492</b></span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0489</b> </span>
+                    <span class="route-info__point-address">ст. м. Сокольники</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2206</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 10 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">1.4 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">23/06/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0489</b></span>
+                    <span class="route-info__point-address">ст. м. Сокольники</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0489</b> </span>
+                    <span class="route-info__point-address">ст. м. Сокольники</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">1656</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 0 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">23/06/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0489</b></span>
+                    <span class="route-info__point-address">ст. м. Сокольники</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0492</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">1564</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 24 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">1.7 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">27/06/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0209</b></span>
+                    <span class="route-info__point-address">ст. м. Спортивная (выход №1)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0220</b> </span>
+                    <span class="route-info__point-address">ул. Усачева, д. 26 (Усачёвский рынок)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">1724</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 42 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">6.8 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">27/06/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0220</b></span>
+                    <span class="route-info__point-address">ул. Усачева, д. 26 (Усачёвский рынок)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0209</b> </span>
+                    <span class="route-info__point-address">ст. м. Спортивная (выход №1)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0769</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 14 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">3.2 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">01/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0489</b></span>
+                    <span class="route-info__point-address">ст. м. Сокольники</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0446</b> </span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0970</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 41 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">6.9 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">15/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0220</b></span>
+                    <span class="route-info__point-address">ул. Усачева, д. 26 (Усачёвский рынок)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0220</b> </span>
+                    <span class="route-info__point-address">ул. Усачева, д. 26 (Усачёвский рынок)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2278</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 1 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">15/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0220</b></span>
+                    <span class="route-info__point-address">ул. Усачева, д. 26 (Усачёвский рынок)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0209</b> </span>
+                    <span class="route-info__point-address">ст. м. Спортивная (выход №1)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2419</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 26 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">2.3 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">15/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0209</b></span>
+                    <span class="route-info__point-address">ст. м. Спортивная (выход №1)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0209</b> </span>
+                    <span class="route-info__point-address">ст. м. Спортивная (выход №1)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2419</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 36 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">5.5 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">15/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0209</b></span>
+                    <span class="route-info__point-address">ст. м. Спортивная (выход №1)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0209</b> </span>
+                    <span class="route-info__point-address">ст. м. Спортивная (выход №1)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2419</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 37 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">5.4 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">15/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0209</b></span>
+                    <span class="route-info__point-address">ст. м. Спортивная (выход №1)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0209</b> </span>
+                    <span class="route-info__point-address">ст. м. Спортивная (выход №1)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2419</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 18 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">2.6 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">17/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0496</b></span>
+                    <span class="route-info__point-address">ул. Электрозаводская, д.21, стр.13</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0496</b> </span>
+                    <span class="route-info__point-address">ул. Электрозаводская, д.21, стр.13</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">3885</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 2 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0.1 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">17/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0496</b></span>
+                    <span class="route-info__point-address">ул. Электрозаводская, д.21, стр.13</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0487</b> </span>
+                    <span class="route-info__point-address">Сокольническая пл., д.7</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0026</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 16 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">2.5 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">17/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0487</b></span>
+                    <span class="route-info__point-address">Сокольническая пл., д.7</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0446</b> </span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0890</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 33 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">6.2 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">20/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0340</b></span>
+                    <span class="route-info__point-address">ул. Шаболовка, д.32</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0265</b> </span>
+                    <span class="route-info__point-address">ул. Мытная, д.15</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">1144</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 8 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">1 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">20/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0265</b></span>
+                    <span class="route-info__point-address">ул. Мытная, д.15</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0083</b> </span>
+                    <span class="route-info__point-address">ул. Большая Якиманка (напротив д.18)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">4301</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 43 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0.1 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">20/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0083</b></span>
+                    <span class="route-info__point-address">ул. Большая Якиманка (напротив д.18)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0083</b> </span>
+                    <span class="route-info__point-address">ул. Большая Якиманка (напротив д.18)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">1773</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 0 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">20/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0083</b></span>
+                    <span class="route-info__point-address">ул. Большая Якиманка (напротив д.18)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0070</b> </span>
+                    <span class="route-info__point-address">Лаврушинский пер. (напротив д.4, стр.1)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">1773</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 7 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0.9 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">20/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0070</b></span>
+                    <span class="route-info__point-address">Лаврушинский пер. (напротив д.4, стр.1)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0017</b> </span>
+                    <span class="route-info__point-address">Чистопрудный б-р (напротив  д.8, стр.1)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">1923</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 65 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">5.3 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    100 ₽
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">25/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0446</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0446</b> </span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">1039</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 1 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0.1 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">25/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0446</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0446</b> </span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">0094</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 1 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0.1 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">25/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0446</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0489</b> </span>
+                    <span class="route-info__point-address">ст. м. Сокольники</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2353</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 61 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">7 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    100 ₽
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">25/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0489</b></span>
+                    <span class="route-info__point-address">ст. м. Сокольники</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0495</b> </span>
+                    <span class="route-info__point-address">ул. Преображенский Вал, д.24, к.3</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2651</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 28 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">4.5 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">28/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0446</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.163</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0498</b> </span>
+                    <span class="route-info__point-address">пр-т Мира, д.150</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2796</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 11 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">1.5 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">28/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0498</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.150</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0440</b> </span>
+                    <span class="route-info__point-address">пр-т Мира, д.40 (рядом со ст. м. Проспект Мира (кольцевая))</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2796</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 29 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">4.8 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">28/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0440</b></span>
+                    <span class="route-info__point-address">пр-т Мира, д.40 (рядом со ст. м. Проспект Мира (кольцевая))</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0034</b> </span>
+                    <span class="route-info__point-address">пл. Сретенские ворота (напротив д.1)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2796</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 13 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">1.7 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">28/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0034</b></span>
+                    <span class="route-info__point-address">пл. Сретенские ворота (напротив д.1)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0035</b> </span>
+                    <span class="route-info__point-address">ул. Кузнецкий мост, д.13/9, стр.1</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2796</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 54 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">1.8 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    100 ₽
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">28/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0013</b></span>
+                    <span class="route-info__point-address">Театральный пр-д, д.5, стр.1 (ст. м. Лубянка)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0051</b> </span>
+                    <span class="route-info__point-address">ул. Новый Арбат, д.22</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">4634</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 22 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">3.2 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">28/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0051</b></span>
+                    <span class="route-info__point-address">ул. Новый Арбат, д.22</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0245</b> </span>
+                    <span class="route-info__point-address">пл. Европы, д.2 (у пешеходного моста)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">4634</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 17 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">2.7 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">28/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0245</b></span>
+                    <span class="route-info__point-address">пл. Европы, д.2 (у пешеходного моста)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0245</b> </span>
+                    <span class="route-info__point-address">пл. Европы, д.2 (у пешеходного моста)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2741</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 2 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">28/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0245</b></span>
+                    <span class="route-info__point-address">пл. Европы, д.2 (у пешеходного моста)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0245</b> </span>
+                    <span class="route-info__point-address">пл. Европы, д.2 (у пешеходного моста)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">1789</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 1 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">28/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0245</b></span>
+                    <span class="route-info__point-address">пл. Европы, д.2 (у пешеходного моста)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0209</b> </span>
+                    <span class="route-info__point-address">ст. м. Спортивная (выход №1)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2145</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 40 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">4.5 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">28/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0209</b></span>
+                    <span class="route-info__point-address">ст. м. Спортивная (выход №1)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0209</b> </span>
+                    <span class="route-info__point-address">ст. м. Спортивная (выход №1)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">1713</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 32 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">7.8 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">28/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0209</b></span>
+                    <span class="route-info__point-address">ст. м. Спортивная (выход №1)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0220</b> </span>
+                    <span class="route-info__point-address">ул. Усачева, д. 26 (Усачёвский рынок)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">1713</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 10 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">2.4 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">28/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0220</b></span>
+                    <span class="route-info__point-address">ул. Усачева, д. 26 (Усачёвский рынок)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0220</b> </span>
+                    <span class="route-info__point-address">ул. Усачева, д. 26 (Усачёвский рынок)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2806</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 1 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">28/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0220</b></span>
+                    <span class="route-info__point-address">ул. Усачева, д. 26 (Усачёвский рынок)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0220</b> </span>
+                    <span class="route-info__point-address">ул. Усачева, д. 26 (Усачёвский рынок)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2846</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 1 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">0 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">28/07/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0220</b></span>
+                    <span class="route-info__point-address">ул. Усачева, д. 26 (Усачёвский рынок)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0209</b> </span>
+                    <span class="route-info__point-address">ст. м. Спортивная (выход №1)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">3879</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 7 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">1.1 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">04/08/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0007</b></span>
+                    <span class="route-info__point-address">Газетный пер., д.6</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0015</b> </span>
+                    <span class="route-info__point-address">Тургеневская пл. (ст. м. Тургеневская)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">2087</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 24 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">3.3 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">09/08/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0015</b></span>
+                    <span class="route-info__point-address">Тургеневская пл. (ст. м. Тургеневская)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0035</b> </span>
+                    <span class="route-info__point-address">ул. Кузнецкий мост, д.13/9, стр.1</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">4872</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 15 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">1.7 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">09/08/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0035</b></span>
+                    <span class="route-info__point-address">ул. Кузнецкий мост, д.13/9, стр.1</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0013</b> </span>
+                    <span class="route-info__point-address">Театральный пр-д, д.5, стр.1 (ст. м. Лубянка)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">4872</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 26 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">1.5 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">09/08/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0013</b></span>
+                    <span class="route-info__point-address">Театральный пр-д, д.5, стр.1 (ст. м. Лубянка)</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0015</b> </span>
+                    <span class="route-info__point-address">Тургеневская пл. (ст. м. Тургеневская)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">4872</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 10 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">1.1 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
+<li class="history-list__item" data-id="0">
+                            
+                                
+
+<span class="history-list__date h_mb10">12/08/2017</span>
+
+<div class="history-list__holder" >
+
+
+
+    <div class="history-list__text-box">
+        <div class="route-info h_mb0">
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-start route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Начало у <b>№0489</b></span>
+                    <span class="route-info__point-address">ст. м. Сокольники</span>
+                </div>
+            </div>
+            <div class="route-info__col h_pb25">
+                <div class="route-info__point-end route-info__point-circle"></div>
+                <div class="route-info__text-box">
+                    <span class="route-info__point-title">Конец у <b>№0492</b> </span>
+                    <span class="route-info__point-address">ул. Стромынка, д.20 (Технологический университет)</span>
+                </div>
+            </div>
+        </div>
+        <ul class="route-info-list">
+            <li class="route-info-list__item">
+                <span class="routes-list__bike">4260</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__time">~ 12 мин.</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__distance">1.6 км</span>
+            </li>
+            <li class="route-info-list__item">
+                <span class="routes-list__price">
+                    бесплатно
+                </span>
+            </li>
+        
+===END===
